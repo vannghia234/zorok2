@@ -15,8 +15,10 @@ Machine Learning and AI engineer from Vietnames. I'm passionate about AI Develop
 
 - 🌱 I’m currently learning Python and Machine learning
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/nghiaazoro) 
+- 📫 How to reach me:[Instagram](https://www.instagram.com/nghiaazoro) 
 - ⚡ Fun fact: I share... a lot!
+- ### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 <br />
 
 
