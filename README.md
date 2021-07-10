@@ -71,8 +71,6 @@ Machine Learning and AI engineer from Vietnames. I'm passionate about AI Develop
 
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
-
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
