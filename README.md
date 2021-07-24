@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">I'm Zoro<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1ODczMQ==' border='0' alt='logo creation'></a><BR><a >Số lượng người đã truy cập</a></div>
 <h3 align="center">I'm a AI engineer from Vietnamese</h3>
   
 Machine Learning and AI engineer from Vietnames. I'm passionate about AI Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, Cloud computing, DevOps, Innovation and Automation :robot: 
 
-
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1ODczMQ==' border='0' alt='logo creation'></a><BR><a >số lượng truy cập</a></div>
+  
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-AI-darkblue)
 ![living](https://img.shields.io/badge/living-BinhThuan-3c9)
