@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Zoro<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a AI engineer from Vietnamese ❤</h3>
+<h3 align="center">I'm a AI engineer from Vietnamese</h3>
   
 Machine Learning and AI engineer from Vietnames. I'm passionate about AI Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, Cloud computing, DevOps, Innovation and Automation :robot: 
 
