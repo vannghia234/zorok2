@@ -54,9 +54,9 @@ Machine Learning and AI engineer from Vietnames. I'm passionate about AI Develop
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=zorok2&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" > <br/><br/>
+<img  src="https://github-readme-stats.vercel.app/api?username=zorok2&show_icons=true&hide_border=true&theme=dark"> <br/><br/>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=zorok2&theme=dark" width="45%" ><br/><br/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=zorok2&theme=dark"><br/><br/>
 
 <br>
 
