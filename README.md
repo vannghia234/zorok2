@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">I'm Zoro<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1ODQ3OA==' border='0' alt='logo designers'></a><BR><a href='https://www.glowgraphics.co.uk/'>Số lượng người đã truy cập</a></div>
 
 <h3 align="center">I'm a AI engineer from Vietnamese</h3>
   
