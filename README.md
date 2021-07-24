@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">I'm Nguyễn Văn nghĩa<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">I'm Zoro<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm a AI engineer from Vietnamese ❤</h3>
   
-Machine Learning and AI engineer from Vietnames. I'm passionate about AI Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Cloud computing, 🚀 DevOps, Innovation and Automation :robot: 
+Machine Learning and AI engineer from Vietnames. I'm passionate about AI Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, Cloud computing, DevOps, Innovation and Automation :robot: 
 
 
 ![age](https://img.shields.io/badge/age-19-blue)
@@ -14,8 +14,8 @@ Machine Learning and AI engineer from Vietnames. I'm passionate about AI Develop
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning Python and Machine learning
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me:[Instagram](https://www.instagram.com/nghiaazoro) 
+- 👯 I’m looking to collaborate on Python projects 
+- 📫 How to reach me: [Instagram](https://www.instagram.com/nghiaazoro) 
 - ⚡ Fun fact: I share... a lot!
 - ### Spotify Playing 🎧
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
@@ -54,9 +54,9 @@ Machine Learning and AI engineer from Vietnames. I'm passionate about AI Develop
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=zorok2&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=zorok2&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" > <br/><br/>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=zorok2&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=zorok2&theme=dark" width="45%" ><br/><br/>
 
 <br>
 
