@@ -4,18 +4,12 @@
 <h3 align="center">I'm a engineer from Vietnamese</h3>
   
 
-
-
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1ODczMQ==' border='0' alt='logo creation'></a><BR><a >số lượng truy cập</a></div>
-  
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-AI-darkblue)
 ![living](https://img.shields.io/badge/living-BinhThuan-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Python and Machine learning
-- 👯 I’m looking to collaborate on Python projects 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/nghiaazoro) 
 - ⚡ Fun fact: I share... a lot!
 - ### Spotify Playing 🎧
@@ -68,7 +62,7 @@
 
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nghiaazoro)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vannghia.senpai)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/dcazoro.senpai)
 
 
 
